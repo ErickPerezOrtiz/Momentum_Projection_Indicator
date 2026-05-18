@@ -1,6 +1,6 @@
 # Momentum Projection Indicator
 
-Indicador técnico personalizado desarrollado en MQL4 para MetaTrader 4, diseñado para análisis de swing trading en múltiples timeframes (M30, H1, H4, D1).
+Indicador técnico personalizado desarrollado en MQL4 para MetaTrader 4, diseñado para análisis financiero swing en múltiples timeframes (M30, H1, H4, D1).
 
 ## Descripción general
 
